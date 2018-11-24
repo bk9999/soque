@@ -25,7 +25,7 @@ SECRET_KEY = SECRET_KEY_STR
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'soque.in']
+ALLOWED_HOSTS = ALLOWED_HOSTS_ARRAY
 
 
 # Application definition
